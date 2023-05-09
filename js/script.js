@@ -6,4 +6,4 @@ async function fetchPokemon(pokemon) {
   console.log(data.id);
 }
 
-fetchPokemon("pichu");
+// fetchPokemon("pichu");
